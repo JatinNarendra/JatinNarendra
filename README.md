@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JatinNarendra
 - 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate in ReactJS Projects
 - 📫 How to reach me  Dicord: JatinNarendra#8346
 
